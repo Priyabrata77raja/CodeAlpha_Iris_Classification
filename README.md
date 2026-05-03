@@ -49,12 +49,6 @@ These help in identifying patterns between features.
 
 ---
 
-📷 Sample Output
-
-(Add your visualization screenshots here)
-
----
-
 🚀 Conclusion
 
 The model achieved perfect accuracy on the test dataset.
