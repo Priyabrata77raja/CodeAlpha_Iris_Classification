@@ -62,6 +62,6 @@ Visualization helped in understanding clear separability between classes.
 
 ---
 👤 Author
-Priyabrata Beher
+Priyabrata Behera
 
 
